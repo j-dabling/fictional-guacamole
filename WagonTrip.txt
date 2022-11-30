@@ -1,0 +1,158 @@
+You wake up as the wagon jostles around on an uneven trail. The sunlight glares into your eyes as you sit up. The world is an unpleasant mix of too-bright sounds and too-loud colors.
+"Maybe I should have taken it easy last night with the drinks..." you mutter to yourself.
+It's hard to remember much of the previous night. What even is my name?
+*Name your adventurer: 
+After taking a minute to gather their bearings, you look around to see that you're in a motor-wagon, the little engine within pattering forward on the trail.
+There are other people riding in the wagon too. The driver in the front, a blonde woman wearing a three-pointed hat and a white shirt. A brown-haired man in a crimson coat sits next to her in the front holding out a large map. In the back area with you sit two others, one wearing a grey town-jacket and a flat cap smirks as they see you, and a shirtless man sitting towards the back with his legs dangling off the edge.
+*Would you like to: Go back to SLEEP, SCREAM like you're living a nightmare, or SPEAK with your companions? 
+
+#sleep
+Well, this is clearly way too much to deal with at the moment. A quick nap will probably sort everything out so it makes sense.
+Laying back down as you were, you quickly fall back to sleep and all around you fades out of mind.
+You are startled awake by a flurry of activity on board the wagon. 
+@35
+
+#scream
+Noise explodes from your mouth with an unexpected force and violence. You can feel the wagon jerk to the side suddenly as the driver snaps to attention at the wheel. The man in the back in a panic as he works to regain his balance. The ones in the red coat and flat-cap drew guns without missing a beat and look up and around them with careful scrutiny; examining their environment with suspicion.")
+Not seeing anything to worry about, the man in the red coat turns to you expectantly.
+"What in the Beast's name is wrong with you??" he asks. Annoyance and incredulity very evident on his face."Are you trying to attract whatever lives in here?"
+"Not ta' mention ya nearley got me 'eart to leap out me chest!" the man in the back quickly adds.
+Almost as if an answer to your own, another scream rings out from the woods.
+@35
+
+#speak
+"You're alive!" the one in the cap exclaims. "I'm Johnah."
+Looking at his face now, it's apparent that Johnah is a bit older than anyone else in the group. Age-inflicted wrinkles and white hairs had begun to seep into his persona.
+Johnah continues to introduce the other members of the group: "This scallywag is Willows, surely you remember him right? The mage?"
+He waved his fingers as he said mage, and a huge grin crept across his face.
+Willows, unentertained by Johnah's antics, raises his hand and does a slight wave without turning around.
+"In the front: our driver Leslie, and of course our illustrious sponsor, Mr. Archivist!"
+@58
+
+#!
+Please enter a valid response!|||||||||
+@6
+
+The man in red drops his map and is now looking into the forest intently with a revolver in hand.
+The man in the flat-cap similarly scowers down the sight of his rifle as he searches. Even the shirtless man, so relaxed before, is upright and at full attention.
+A scream that tears at your ears echos from within the forest. Flat-cap spins and focuses his rifle in the direction of the sound. Shirtless starts to chant something while putting his hands together, and the wagon begins to pick up speed as it accelerates down the winding trail.
+*Do you: ASK what in the Beast's name is happening, LEAP onto your feet and help, or do you EAT a bar from your snack bag?
+
+#ask
+The only response to your question comes from Flat-cap, who only whispers: "monkeys..." as his eyes search the trees.
+A figure from the canopy above hurls itself down and lands on the cart with a thud. It's screams are cut off by the shot from the man in red. 
+As if that shot was a signal to the forest itself, dozens of other monkeys began jumping from trees and running along the ground to catch up to the cart.
+@138
+
+#leap
+You shoot to your feet in a rush, unfortunately just as the cart hits a pit in the trail. The sudden motion throws you off of balance, and out of the wagon.
+@123
+
+#eat
+You calmly take a granola bar out of your bag, and eat it. Its very tasty, but it doesn't seem to have solved any of the immediate problems.
+@37
+
+#!
+Please enter a valid response!{{{{{}}}}}
+@37
+
+The next few hours passes without incident. The sun begins to set, and you feel a chilling wave as the light fades.
+Everyone else begins donning hats or extra layers to keep warm, except Willows, who puts his hands together and begins chanting.
+Tatoos across his body start glowing, fading into a green glow starting from his head down into the rest of his body.
+*Do you PUT on an extra coat yourself, ASK Willows what he's doing, or get UNDER the large blanket that covers the back of the wagon?
+
+#put
+While you're putting on a larger coat that you found next to you in the wagon, the Archivist calles back for Willows to scout ahead.
+He jumps out and runs ahead at a surprsingly fast pace. His green glow fading as he dissapears farther into the fog.
+After several minutes, the green appears again. Willows is standing in the center of the trail, and waving in a downward motion.
+The Archivist nods, then says to Leslie: "Right, cut the engine."
+The wagon drifts silently for another few meters before coming to a stop.
+Willows returns to the side of the cart, "You guys won't want to miss this, dim the lights."
+As the lights dim, you can see that parts of the fog seem to be moving unnaturally. 
+A faint glowing outline appears in the fog, the shape of a gigantic deer in a soft blue light appears as your eyes adjust to the darkness. 
+Johnah gasps softly, and the deer raises it's head from the ground. It's head in the tops of the ancient trees, and massive antlers extending beyond.
+It's outline defined by the faint blue glow, all other parts of it's body camoflauging with the backdrop of the forest.
+@90
+
+#ask
+You ask Willows what he's doing. He doesn't respond for a minute, but after finishing his incantation looks at you.
+"Just a quick little spell to give me some insulation and some help seeing in the dark."
+The Archivist chimes in from the front: "Nice, would you mind scouting ahead for a bit?"
+"I'm on it." he replies quickly, then says to you: "Want to come with me? Might see something cool."
+@107
+
+#under
+It's warm under the blanket, and with the rythm of the engine combined with the forest background, you fall alseep again.
+@200
+
+#!
+Please enter a valid response!@@@@@@
+@58
+
+*Do you DRAW the discovery, MOVE to get closer to it, or SCREAM?
+#draw
+You pull out some paper from your coat, and are able to get a sketch of the beast before it dissapears again out of sight.
+@200
+
+#move
+As you creep closer, the form of the animal becomes more apparent. A branch snaps under your foot and the titan of a deer runs off into the forest again.
+@200
+
+#scream
+You stand up straight, and scream like a ghost brought back to life. The gigantic glowing deer turns to you, and lowers it's head to your level, then proceeds to eat you.
+@200
+
+#!
+Please enter a valid response!%%%%%%%%%%%%%%%%%%%%
+@90
+
+*Do you GO with him or STAY in the wagon?
+
+#go
+The wagon continues to putter down the trail in the forest while you and Willows start cutting through the trees. You can see bright little lights of all different colors and sizes floating around in the shelter of the trees. 
+He motions for you to be quiet, and as you turn around the next set of trees, a clearing opens, and you see a smaller tree, walking around on it's roots like many spindly legs. When the lights land on it, they get brighter then float away again.
+"We should warn them about the ent."
+You start making your way back to the wagon while Willows moves cautiously around the edges of the clearing to continue scouting.
+@200
+
+#stay
+You choose to stay in the wagon and watch with the others. The night and the rest of the trip pass without incident.
+@200
+#!
+Please enter a valid response!
+@104
+
+You hit the ground hard. You get up to see an army of large monkeys and apes charging down the trail after the wagon, and towards you.
+*Do you RUN, or STAND your ground?
+
+#run
+You start sprinting down the trail as fast as you can. You're runnning pretty quickly, but the apes quickly outrun you.
+@200
+
+#stand
+You stand still and face the hoard head-on. Surprisingly, the wave of apes pass around you, furiously chasing after the wagon. They don't seem to notice you as you stand motionless. You've escaped!
+@200
+
+#!
+Please enter a valid response!
+@123
+
+*Do you FIGHT, or HIDE?
+
+#fight
+You get up, and the man in the cap throws you a sword. You start swinging at the incoming monsters. A particularly large ape grabs the side of the wagon.
+@148
+
+#hide
+You bury yourself back under the supplies in the wagon. You can hear the shouting and struggle outside. The roar of beasts and the explosions from firing pistols. After a time, the wagon finally swerves and capsizes. You are trapped underneath the wreckage.
+@200
+
+*Do you go for the beast's HAND, or it's HEAD?
+
+#hand
+You cut at the large hand that's gripping the side of the wagon. The ape reels back in pain and falls behind. After a few more minutes, the hoard seems to have given up on chasing you. You and your group have survived.
+@200
+
+#head
+You decide to go straigt for the kill. You swing as hard as you can at the beast's head. Your sword scratches it's head, but fails to inflict any meaningful damage. The ape grabs you and pulls you out of the wagon. Distracted by you, the hoard abandons the wagon chase.
+@200
