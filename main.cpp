@@ -69,7 +69,7 @@ void lowerCase(string& origin)
 int main() {
     char filename[256];
     // Prompt the user for the filename.
-    std::cout << "Please enter the filename of the Mad Lib: ";
+    std::cout << "Please enter the filename to read: ";
     cin >> filename;
     // Open the specified file.
     fstream file(filename);
@@ -79,8 +79,6 @@ int main() {
        std::cout << "Error reading file \"" << filename << "\"" << endl;
        return -1;
     }
-
-    // std::cout << filename << endl;
 
     if (file.is_open()) {
         bool output_to_console = true;
@@ -95,7 +93,7 @@ int main() {
             if (line[0] == '*') {
                 // Checks for user prompts, accept input from user.
                 std::cout << "!!-------------------------------------------!!" << endl;
-                std::cout << strip(line, '*') << ": ";
+                std::cout << strip(line, '*') << " ";
                 cin >> user_choice;
                 std::cout << "!!-------------------------------------------!!" << endl;
                 lowerCase(user_choice);
