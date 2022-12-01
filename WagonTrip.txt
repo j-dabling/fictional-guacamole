@@ -30,7 +30,7 @@ Willows, unentertained by Johnah's antics, raises his hand and does a slight wav
 @58
 
 #!
-Please enter a valid response!|||||||||
+Please enter a valid response!
 @6
 
 The man in red drops his map and is now looking into the forest intently with a revolver in hand.
@@ -53,7 +53,7 @@ You calmly take a granola bar out of your bag, and eat it. Its very tasty, but i
 @37
 
 #!
-Please enter a valid response!{{{{{}}}}}
+Please enter a valid response!
 @37
 
 The next few hours passes without incident. The sun begins to set, and you feel a chilling wave as the light fades.
@@ -86,7 +86,7 @@ It's warm under the blanket, and with the rythm of the engine combined with the 
 @200
 
 #!
-Please enter a valid response!@@@@@@
+Please enter a valid response!
 @58
 
 *Do you DRAW the discovery, MOVE to get closer to it, or SCREAM?
@@ -103,7 +103,7 @@ You stand up straight, and scream like a ghost brought back to life. The giganti
 @200
 
 #!
-Please enter a valid response!%%%%%%%%%%%%%%%%%%%%
+Please enter a valid response!
 @90
 
 *Do you GO with him or STAY in the wagon?
